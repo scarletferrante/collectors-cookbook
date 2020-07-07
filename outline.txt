@@ -1,0 +1,38 @@
+Resources:
+https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
+
+What do I want to make:
+- A website that holds all my favorite recipes I have collected from website links and pictures
+
+
+What tech will I use
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+
+
+What features will it include?
+- A web page with a search bar
+- An accordian list of all the recipes
+- The search bar displays all the close matches as you are typing
+- When you select the recipe you want, the page scrolls to the recipe already opened
+- Reads a file and displays the recipe on the website
+
+
+What features must it include:
+
+(P1) Functional Page
+- An accordion list of recipes
+- A search bar
+
+(P2)
+
+
+How will I implement it?
+
+Objects
+ - Recipe
+
+Methods
+- 
